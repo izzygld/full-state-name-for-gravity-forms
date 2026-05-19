@@ -1,19 +1,8 @@
 # Full State Name for Gravity Forms
 
-[![Download on WordPress.org](https://img.shields.io/wordpress/plugin/v/full-state-name-for-gravity-forms?label=WordPress.org&logo=wordpress&color=21759b&style=for-the-badge)](https://wordpress.org/plugins/full-state-name-for-gravity-forms/)
-[![Active Installs](https://img.shields.io/wordpress/plugin/installs/full-state-name-for-gravity-forms?label=Active%20Installs&style=for-the-badge&color=21759b)](https://wordpress.org/plugins/full-state-name-for-gravity-forms/)
-[![Rating](https://img.shields.io/wordpress/plugin/rating/full-state-name-for-gravity-forms?label=Rating&style=for-the-badge&color=21759b)](https://wordpress.org/plugins/full-state-name-for-gravity-forms/#reviews)
 [![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-2.0)
 
 A Gravity Forms add-on that fixes an inconsistency where the Address field's "State / Province" sub-input (input `X.4`) sometimes resolves to a 2-letter abbreviation (`NJ`) instead of the full state name (`New Jersey`) when used in merge tags.
-
-> ### 📥 Get the Plugin
->
-> **The easiest way to install is directly from the WordPress.org plugin directory:**
->
-> ### 👉 [**Download from WordPress.org**](https://wordpress.org/plugins/full-state-name-for-gravity-forms/) 👈
->
-> Or search for **"Full State Name for Gravity Forms"** under **Plugins → Add New** in your WordPress dashboard.
 
 ---
 
@@ -73,9 +62,10 @@ All US states (50), DC, US territories (PR, GU, VI, AS, MP), and military mailin
 
 ## Installation
 
-1. Install from the WordPress.org plugin directory, **or** upload the `full-state-name-for-gravity-forms` folder to `/wp-content/plugins/`
-2. Activate the plugin through the **Plugins** menu in WordPress
-3. Done — no settings page, no configuration
+1. Download or clone this repository
+2. Upload the `full-state-name-for-gravity-forms` folder to `/wp-content/plugins/`
+3. Activate the plugin through the **Plugins** menu in WordPress
+4. Done — no settings page, no configuration
 
 ## Project Structure
 
