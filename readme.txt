@@ -9,7 +9,7 @@ Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Always renders the Address "State / Province" sub-field as the full state name (e.g. "New Jersey") instead of a 2-letter code (e.g. "NJ") in merge tags.
+Expand 2-letter US state codes (e.g. NJ) to full state names (e.g. New Jersey) in Gravity Forms Address merge tags.
 
 == Description ==
 
