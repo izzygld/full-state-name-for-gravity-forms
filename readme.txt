@@ -4,7 +4,7 @@ Donate link: https://github.com/izzygld
 Tags: gravity forms, address field, merge tags, state name, notifications
 Requires at least: 5.8
 Tested up to: 6.9
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html

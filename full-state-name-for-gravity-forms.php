@@ -3,7 +3,7 @@
  * Plugin Name: Full State Name for Gravity Forms
  * Plugin URI: https://github.com/izzygld/full-state-name-for-gravity-forms
  * Description: Ensures the Address "State / Province" sub-field (input X.4) always renders as the full state name (e.g. "New Jersey") rather than a 2-letter abbreviation (e.g. "NJ") in merge tags such as {all_fields}, {Address (State / Province):X.4}, notifications, confirmations, and URL query strings.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: izzygld
  * Author URI: https://github.com/izzygld
  * Text Domain: full-state-name-for-gravity-forms
