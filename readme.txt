@@ -3,8 +3,8 @@ Contributors: izzygld
 Donate link: https://github.com/izzygld
 Tags: gravity forms, address field, merge tags, state name, notifications
 Requires at least: 5.8
-Tested up to: 6.9
-Stable tag: 1.0.1
+Tested up to: 7.0
+Stable tag: 1.0.2
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -80,6 +80,13 @@ No. It only filters merge tag output. The submitted value, validation, and stora
 
 == Changelog ==
 
+= 1.0.2 =
+* Confirmed compatibility with WordPress 7.0
+* Sync internal `FSN_GF_VERSION` constant with plugin header version
+
+= 1.0.1 =
+* Maintenance release: housekeeping and deploy pipeline verification
+
 = 1.0.0 =
 * Initial release
 * Expands 2-letter state codes to full state names in `gform_merge_tag_filter` for Address X.4 sub-inputs
@@ -87,6 +94,9 @@ No. It only filters merge tag output. The submitted value, validation, and stora
 * `fsn_gf_expanded_state_name` filter for per-replacement customization
 
 == Upgrade Notice ==
+
+= 1.0.2 =
+Tested with WordPress 7.0.
 
 = 1.0.0 =
 Initial release.
